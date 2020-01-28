@@ -25,7 +25,7 @@ import com.maxmind.geoip.Location;
 import com.maxmind.geoip.LookupService;
 import com.maxmind.geoip.regionName;
 
-@RestController
+@Controller
 public class TestController {
 	
 	
